@@ -16,9 +16,9 @@ I'm a passionate **Mobile App Developer (Flutter)** from **Bangladesh 🇧🇩**
 I love building cross-platform apps and exploring backend technologies.
 
 - 🔭 Currently working on: `EarthQForecast`
-- 🌱 Learning: `Java`, `XML (Android)`, `Dart`, `Flutter`, `PHP`, `SQL`
+- 🌱 Learning: `Python`,`Java`, `XML (Android)`, `Dart`, `Flutter`, `PHP`, `SQL`
 - 👯 Open to collaborate on: `Open Source Projects`
-- 📫 Email: **soykotrahman@gmail.com**
+- 📫 Email: **soykotrahman1212@gmail.com**
 
 ---
 
